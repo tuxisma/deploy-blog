@@ -1,2 +1,2 @@
 # deploy-blog
-Script to deploy my blog with HUGO
+Script to deploy my blog with HUGO: tuxisma.github.io
